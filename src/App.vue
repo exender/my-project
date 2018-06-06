@@ -1,9 +1,10 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+<img src="./assets/netflix.png" class="img-fluid" alt=" ">
+  <HelloWorld />
   </div>
 </template>
+
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
